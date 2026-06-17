@@ -1,0 +1,23 @@
+site_name: Research Log
+site_description: Topic-organized quant research notes
+docs_dir: docs
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Daily:
+      - 2026-06: daily/2026-06.md
+  - Research Themes:
+      - Overview: themes/index.md
+      - Analyst:
+          - Overview: themes/analyst/index.md
+          - Ideas: themes/analyst/ideas/index.md
+          - Papers: themes/analyst/papers/index.md
+          - Sell-side Reports: themes/analyst/sellside_reports/index.md
+          - Factor Notes: themes/analyst/factor_notes/index.md
+          - Experiments: themes/analyst/experiments/index.md
+  - References:
+      - Reading List: references/reading_list.md
