@@ -16,8 +16,11 @@ nav:
           - Overview: reports/done/index.md
           - Analyst: reports/done/analyst.md
       - To Read List:
-          - Overview: reports/to_read/index.md
-          - LLM Papers: reports/to_read/llm_paper.md
+           - Overview: reports/to_read/index.md
+           - Analyst: reports/to_read/analyst.md
+           - Fundamental: reports/to_read/fundamental.md
+           - High Frequency: reports/to_read/high_frequence.md
+           - LLM Papers: reports/to_read/llm_paper.md
   - Research Themes:
       - Overview: themes/index.md
       - Analyst:
