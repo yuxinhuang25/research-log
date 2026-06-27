@@ -14,14 +14,15 @@ nav:
       - Overview: reports/index.md
       - Done:
           - Overview: reports/done/index.md
-          - High Frequency: reports/done/high_frequence.md
+          - Microstructure: reports/done/microstructure.md
           - Fundamental: reports/done/fundamental.md
           - Alternative Alpha: reports/done/alternative_alpha.md
+          - Portfolio Optimization: reports/done/portfolio_optimization.md
           - LLM: reports/done/LLM.md
           - Analyst: reports/done/analyst.md
       - To Read:
           - Overview: reports/to_read/index.md
-          - High Frequency: reports/to_read/high_frequence.md
+          - Microstructure: reports/to_read/microstructure.md
           - Fundamental: reports/to_read/fundamental.md
           - Alternative Alpha: reports/to_read/alternative_alpha.md
           - LLM: reports/to_read/LLM.md
